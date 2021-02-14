@@ -106,7 +106,7 @@ $ scoop install qovery-cli
 
 <TabItem value="manual">
 
-Install the Qovery CLI on Windows manually by downloading the [latest realease][urls.qovery_cli_releases], and uncompress its content to
+Install the Qovery CLI on Windows manually by downloading the [latest release][urls.qovery_cli_releases], and uncompress its content to
 `C:\Windows`.
 
 </TabItem>
